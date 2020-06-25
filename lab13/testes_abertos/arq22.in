@@ -1,0 +1,1598 @@
+264 1333
+Y. Wang, B. Kernighan, B. Zoellick.
+M. Wang, X. Lee, B. Zoellick, J. Hopcroft.
+V. Lee, X. Yang, S. Pereira, T. Carvalho.
+W. Yang, M. Wang, N. Yang.
+L. Lee, J. Eckert.
+F. Wang, N. Yang, S. Pereira, B. Zoellick.
+V. Yang, R. Rivest, Y. Yang, I. Wang, J. Hopcroft.
+R. Yang, A. Wang, E. Wang.
+V. Yang, S. Pereira, G. Yang.
+R. Lee, J. Hopcroft, Q. Yang.
+T. Lee, J. Szwarcfiter.
+F. Lorenzi, C. Berry, V. Wang, R. Sedgewick, A. Tanenbaum.
+Y. Lee, N. Wirth, D. Lee.
+I. Wang, A. Tanenbaum, H. Yang.
+J. Yang, M. Folk, J. Szwarcfiter.
+C. Wang, I. Yang, K. Zuse, H. Aiken.
+H. Yang, K. Wang, F. Yang, A. Yang.
+L. Markenzon, J. Backus, L. Lee, A. Yang, P. Chen.
+R. Wang, J. Hopcroft, R. Yang.
+Q. Yang, B. Stroustrup, X. Wang, J. Wang, A. Aho.
+R. Cerqueira, E. Dijkstra.
+B. Zoellick, W. Yang, J. Eckert, J. Neumann.
+A. Yang, H. Wang, K. Thompson, M. Wilkes.
+P. Wang, L. Markenzon.
+J. Bardeen, M. Wilkes.
+K. Lee, J. Yang, K. Wang.
+T. Yang, J. Backus, W. Yang, S. Pereira, F. Lorenzi.
+Y. Wang, D. Wang, X. Wang.
+S. Lee, Y. Yang, D. Lee, J. Backus.
+C. Lee, I. Yang, P. Mattos, M. Folk.
+N. Wang, G. Lee.
+C. Wang, W. Yang, L. Markenzon, K. Thompson.
+M. Wang, K. Thompson.
+Z. Yang, J. Ullmann, R. Cerqueira.
+I. Wang, F. Williams, Y. Lee, B. Wang, D. Ritchie.
+W. Hanson, T. Cormen.
+R. Wang, W. Lee, F. Lee, F. Lorenzi.
+M. Folk, J. Bardeen, D. Knuth, J. Rangel, L. Torvalds.
+M. Wang, J. Eckert, N. Lee, I. Lee, E. Wang.
+J. Backus.
+K. Lee, J. Bardeen, P. Yang, T. Carvalho, E. Dijkstra.
+D. Wang, D. Knuth, S. Pereira.
+E. Lee, W. Brattain, S. Yang, J. Ullmann, D. Knuth.
+P. Mattos, C. Berry, F. Lorenzi.
+W. Yang, N. Ziviani, I. Lee.
+W. Wang, K. Zuse, B. Kernighan.
+W. Wang, X. Wang, O. Wang, J. Eckert.
+T. Wang, M. Yang.
+T. Cormen, N. Ziviani, E. Dijkstra, H. Aiken.
+I. Yang, F. Lee.
+P. Lee, Z. Yang, M. Wang, B. Zoellick.
+F. Lorenzi, D. Ritchie.
+L. Wang, T. Carvalho.
+G. Yang, B. Kernighan, U. Yang, M. Folk, B. Zoellick.
+B. Lee, R. Yang, W. Celes, A. Kay.
+E. Wang, E. Yang.
+R. Yang, M. Wilkes, T. Wang, C. Wang, K. Zuse.
+J. Wang, S. Wang, E. Lee, W. Celes.
+F. Wang, O. Lee, A. Yang, W. Hanson.
+B. Zoellick, T. Cormen, U. Yang, J. Hopcroft, C. Stein.
+Z. Wang, Z. Lee, N. Wang, L. Lee.
+A. Lee, J. Bardeen, I. Wang, P. Chen, K. Thompson.
+V. Yang, D. Lee, G. Wang.
+R. Rivest, F. Wang, A. Kay, L. Torvalds.
+W. Wang, A. Hopper, V. Yang.
+O. Yang, J. Rangel, F. Lorenzi.
+M. Lee, U. Wang, L. Yang, K. Lee.
+T. Wang, D. Knuth.
+H. Lee, T. Lee, F. Lee, J. Mauchly.
+H. Lee, T. Yang, B. Zoellick, B. Kernighan.
+E. Yang, B. Kernighan, K. Yang, S. Pereira, N. Ziviani.
+G. Yang, C. Yang, E. Lee.
+W. Yang, Y. Lee, T. Lee, B. Stroustrup.
+S. Wang, B. Lee, C. Yang.
+R. Lee, C. Wang, X. Yang, Q. Yang, H. Yang.
+U. Yang, D. Lee, N. Wang.
+P. Lee, J. Lee, M. Yang.
+U. Wang.
+Q. Lee, D. Wang.
+S. Pereira, A. Hopper, E. Lee, T. Cormen, A. Yang.
+F. Yang.
+B. Zoellick, R. Cerqueira.
+S. Yang, B. Zoellick, D. Yang.
+F. Wang, W. Shockley, J. Lee, A. Yang, J. Hopcroft.
+D. Ritchie, A. Turing.
+A. Yang, W. Hanson.
+V. Yang, L. Torvalds.
+I. Lee, L. Lee, I. Yang, J. Neumann.
+S. Lee, E. Dijkstra.
+Y. Yang, H. Lee, V. Wang.
+Y. Yang, H. Yang, W. Yang.
+X. Lee, K. Wang.
+N. Yang, D. Ritchie, L. Lee.
+B. Zoellick, N. Wang, M. Wilkes, J. Neumann.
+X. Yang, Y. Lee, C. Yang, W. Hanson.
+T. Carvalho, B. Kernighan.
+R. Yang, J. Hopcroft.
+H. Yang, J. Hopcroft, E. Lee.
+L. Yang, B. Kernighan, J. Lee.
+F. Yang, W. Shockley, F. Wang, F. Lorenzi, J. Eckert.
+F. Lorenzi, J. Neumann.
+R. Lee, V. Lee, K. Yang, S. Pereira.
+P. Lee, M. Folk, Q. Yang, M. Lee, K. Lee.
+N. Wang, A. Aho, U. Yang, B. Wang, F. Lorenzi.
+H. Yang, M. Folk, N. Ziviani.
+N. Wang, J. Backus, U. Wang, F. Lorenzi, B. Zoellick.
+W. Yang, A. Yang, V. Wang.
+P. Yang, J. Eckert, B. Stroustrup.
+J. Lee, R. Sedgewick, O. Lee, E. Lee, M. Folk.
+X. Wang, R. Sedgewick.
+C. Wang, J. Backus.
+L. Lee, J. Lee.
+R. Yang, I. Yang, J. Wang.
+V. Wang, L. Markenzon, A. Lee.
+U. Yang, B. Kernighan, F. Wang.
+X. Wang, N. Wirth, U. Wang.
+U. Wang, B. Stroustrup, Y. Wang, L. Markenzon, J. Szwarcfiter.
+N. Wirth, N. Lee, B. Stroustrup, T. Kilburn.
+O. Wang, J. Bardeen, M. Wang.
+J. Wang, S. Pereira, Q. Yang, G. Yang, D. Wang.
+M. Folk, K. Zuse.
+M. Yang, Z. Wang, B. Wang, W. Hanson.
+N. Wirth, A. Yang, D. Knuth, A. Aho.
+M. Wang, A. Turing, S. Wang, P. Chen, B. Kernighan.
+U. Wang, A. Kay, Z. Yang, G. Yang, N. Ziviani.
+H. Lee, W. Shockley.
+I. Wang, A. Turing, J. Neumann.
+N. Wang, U. Lee, M. Folk, J. Atanasoff.
+K. Lee, A. Turing, U. Wang, B. Lee, A. Hopper.
+D. Yang, I. Wang, C. Lee, W. Celes.
+D. Knuth, P. Chen, F. Lorenzi.
+N. Yang, D. Ritchie, S. Lee, D. Wang, B. Lee.
+O. Lee, J. Rangel.
+A. Wang, R. Wang, C. Leiserson, W. Brattain.
+C. Lee, T. Kilburn.
+M. Wang, R. Rivest, I. Wang.
+I. Lee, N. Wirth.
+N. Wang, J. Hopcroft, H. Lee.
+S. Yang, W. Celes.
+A. Yang, F. Lorenzi, L. Torvalds, E. Codd.
+T. Yang, W. Hanson, N. Ziviani.
+N. Wirth, L. Markenzon.
+O. Wang, G. Yang, T. Wang, I. Lee, I. Yang.
+L. Wang, W. Lee, J. Yang, J. Eckert.
+D. Lee, K. Thompson.
+F. Yang, J. Neumann, U. Wang, J. Rangel, C. Berry.
+Y. Yang, J. Hopcroft, T. Yang.
+Y. Wang, F. Williams, Z. Yang, J. Rangel, A. Tanenbaum.
+U. Yang, D. Ritchie, Z. Yang, L. Yang, A. Yang.
+V. Lee, F. Wang, P. Lee.
+Z. Yang, Q. Wang.
+Z. Wang, N. Lee.
+H. Yang, X. Wang, E. Reingold, K. Zuse.
+O. Yang, R. Wang, L. Yang, J. Hopcroft.
+C. Lee, B. Zoellick.
+Q. Wang, J. Ullmann.
+H. Yang, J. Backus, J. Hopcroft.
+U. Wang, K. Thompson, V. Lee, G. Wang, A. Yang.
+S. Wang, H. Yang, P. Lee.
+U. Wang, L. Torvalds.
+M. Folk, D. Yang, W. Celes, J. Bardeen.
+L. Lee, W. Wang, F. Wang, B. Wang.
+K. Thompson, J. Neumann.
+V. Yang, J. Hopcroft, T. Lee.
+L. Lee, B. Yang, G. Lee.
+S. Wang, Z. Wang, F. Lorenzi, W. Brattain.
+P. Yang, W. Celes, X. Lee, N. Wirth, B. Zoellick.
+P. Wang, A. Tanenbaum, P. Mattos.
+L. Wang, I. Wang.
+E. Reingold, Q. Wang, B. Stroustrup, A. Tanenbaum.
+U. Yang, Y. Wang, E. Yang, R. Rivest.
+I. Yang, J. Bardeen, K. Zuse.
+N. Wang, P. Mattos, Q. Wang, I. Wang, H. Wang.
+S. Wang, M. Wilkes, S. Lee, M. Yang, D. Lee.
+G. Wang, J. Neumann, M. Lee, A. Aho, E. Codd.
+V. Wang, J. Lee.
+J. Rangel, J. Lee, C. Stein, A. Tanenbaum.
+T. Wang, J. Ullmann, R. Yang.
+F. Lee, P. Wang, F. Lorenzi, B. Kernighan.
+Y. Wang, E. Wang.
+W. Celes, K. Thompson, S. Lee, E. Reingold, S. Pereira.
+S. Wang, K. Zuse, J. Atanasoff.
+F. Yang, X. Lee, D. Knuth, D. Ritchie.
+Q. Yang, A. Yang, X. Wang, K. Lee, C. Yang.
+N. Yang, A. Tanenbaum, D. Knuth.
+P. Wang, A. Tanenbaum.
+U. Yang, J. Ullmann, H. Wang.
+P. Wang, A. Kay, Q. Wang, J. Ullmann, J. Szwarcfiter.
+P. Wang, J. Bardeen, B. Wang.
+S. Wang, B. Yang, Q. Wang.
+L. Wang, T. Wang, C. Lee, J. Neumann.
+Q. Lee, J. Mauchly, T. Wang, D. Wang, R. Rivest.
+G. Lee, T. Kilburn, K. Yang, L. Markenzon, E. Reingold.
+T. Cormen, A. Turing, A. Yang.
+D. Lee, C. Leiserson.
+B. Zoellick, W. Celes, F. Yang, S. Pereira, F. Lorenzi.
+P. Wang, A. Tanenbaum, V. Yang, B. Yang, D. Knuth.
+S. Yang, M. Folk.
+P. Lee, Q. Yang, J. Lee, A. Lee.
+I. Yang, E. Codd, O. Yang, B. Zoellick, A. Aho.
+E. Lee, U. Yang, M. Folk, W. Hanson.
+C. Leiserson, J. Eckert.
+S. Pereira, Q. Lee, F. Lorenzi, A. Hopper.
+L. Yang, T. Cormen.
+A. Lee, J. Hopcroft, B. Zoellick.
+B. Zoellick, W. Shockley, J. Atanasoff.
+R. Lee, J. Mauchly, S. Wang, J. Ullmann, F. Lorenzi.
+J. Ullmann, W. Brattain.
+E. Yang, U. Lee, R. Rivest, D. Ritchie.
+S. Lee, B. Stroustrup, T. Lee, S. Wang, C. Lee.
+I. Wang, J. Bardeen, K. Lee, C. Wang, A. Yang.
+Q. Yang, W. Celes.
+G. Wang, J. Hopcroft, A. Yang.
+S. Yang, E. Dijkstra.
+X. Lee, H. Yang.
+K. Lee, A. Tanenbaum, W. Lee, H. Wang, W. Celes.
+T. Yang, R. Sedgewick, F. Lorenzi.
+J. Lee, J. Neumann, G. Lee.
+I. Yang, A. Tanenbaum, Q. Yang, D. Wang, R. Cerqueira.
+A. Lee, F. Lee, C. Leiserson, J. Atanasoff.
+Y. Wang, S. Wang, W. Yang.
+R. Yang, Y. Wang, R. Cerqueira, T. Cormen.
+W. Wang, M. Folk.
+T. Yang, K. Thompson, W. Wang, R. Wang, W. Celes.
+N. Yang, O. Lee, G. Yang, L. Torvalds.
+V. Yang, J. Atanasoff, X. Yang, L. Yang, K. Lee.
+M. Yang, S. Pereira, D. Lee.
+L. Lee, H. Aiken.
+C. Wang, M. Folk.
+S. Lee, Y. Lee, M. Lee, J. Hopcroft.
+P. Yang, T. Cormen.
+R. Cerqueira, K. Thompson.
+P. Yang.
+I. Yang, W. Yang, J. Ullmann, W. Celes.
+B. Zoellick, X. Yang, W. Celes, H. Aiken.
+T. Carvalho, M. Folk.
+M. Lee, M. Folk, O. Lee, F. Yang, C. Yang.
+S. Yang, P. Chen, S. Pereira.
+Q. Lee, D. Knuth, Q. Yang.
+S. Wang, P. Chen, N. Lee.
+R. Yang, R. Sedgewick.
+T. Yang, A. Turing, A. Wang.
+P. Wang, J. Wang.
+K. Lee, C. Wang.
+U. Yang, E. Codd.
+D. Lee, J. Bardeen.
+C. Yang, J. Mauchly, V. Yang, A. Yang, K. Thompson.
+M. Lee, M. Folk, S. Pereira.
+I. Lee, D. Ritchie, O. Yang, E. Wang, C. Stein.
+V. Yang, D. Lee, K. Wang.
+J. Ullmann, C. Stein.
+G. Wang, P. Chen, J. Lee, F. Lee, C. Lee.
+D. Lee, Y. Lee, N. Wirth, L. Markenzon.
+X. Wang, D. Ritchie, E. Reingold.
+Q. Wang, A. Lee, T. Lee, G. Wang, F. Lee.
+U. Yang, V. Lee, M. Folk, A. Turing.
+Y. Wang, Y. Lee, B. Zoellick, S. Pereira.
+U. Wang, V. Wang, Q. Wang, G. Lee.
+D. Lee, M. Wang, C. Yang, E. Dijkstra.
+S. Yang, M. Folk, J. Yang.
+H. Wang, U. Wang, G. Lee, S. Pereira.
+J. Wang, F. Lorenzi, A. Yang.
+V. Lee, M. Wang.
+W. Lee, W. Hanson, X. Yang, E. Yang, A. Wang.
+D. Ritchie, T. Carvalho.
+A. Tanenbaum, N. Yang.
+F. Lorenzi, F. Wang.
+L. Torvalds, R. Sedgewick.
+R. Rivest, J. Hopcroft.
+W. Yang, A. Yang.
+L. Lee, H. Aiken.
+E. Codd, J. Rangel.
+R. Cerqueira, E. Dijkstra.
+B. Wang, N. Ziviani.
+M. Wang, K. Wang.
+S. Yang, W. Hanson.
+X. Lee, K. Wang.
+O. Yang, I. Yang.
+D. Knuth, T. Wang.
+S. Lee, F. Yang.
+J. Hopcroft, A. Yang.
+H. Wang, J. Ullmann.
+G. Yang, O. Lee.
+J. Neumann, E. Yang.
+S. Wang, J. Atanasoff.
+S. Wang, N. Lee.
+J. Bardeen, J. Yang.
+P. Mattos, C. Wang.
+P. Yang, L. Lee.
+G. Lee, J. Neumann.
+W. Wang, V. Yang.
+C. Wang, M. Folk.
+R. Yang, W. Celes.
+Q. Yang, J. Wang.
+M. Lee, K. Lee.
+F. Yang, R. Cerqueira.
+J. Ullmann, P. Chen.
+K. Thompson, J. Neumann.
+S. Yang, E. Dijkstra.
+J. Lee, V. Wang.
+B. Kernighan, A. Tanenbaum.
+W. Shockley, I. Lee.
+S. Lee, J. Wang.
+T. Kilburn, J. Backus.
+Y. Yang, V. Wang.
+C. Stein, J. Ullmann.
+U. Yang, C. Lee.
+V. Yang, I. Yang.
+E. Lee, A. Tanenbaum.
+M. Wang, K. Thompson.
+D. Ritchie, J. Backus.
+D. Lee, N. Wang.
+I. Yang, K. Zuse.
+J. Atanasoff, N. Wang.
+E. Yang, U. Wang.
+J. Neumann, N. Wang.
+T. Neumann, K. Thompson.
+N. Wang, V. Yang.
+A. Yang, H. Wang.
+J. Eckert, F. Lorenzi.
+E. Yang, X. Yang.
+F. Wang, Y. Yang.
+O. Wang, Q. Wang.
+E. Dijkstra, S. Lee.
+R. Cerqueira, B. Zoellick.
+B. Stroustrup, Q. Wang.
+A. Yang, W. Hanson.
+F. Yang, R. Yang.
+M. Wang, G. Lee.
+W. Hanson, N. Ziviani.
+R. Yang, J. Hopcroft.
+K. Lee, P. Lee.
+A. Dijkstra, S. Yang.
+O. Wang, J. Bardeen.
+O. Yang, K. Lee.
+V. Wang, A. Yang.
+B. Xoellick, B. Zoellick.
+C. Wang, K. Lee.
+T. Yang, Q. Yang.
+P. Wang, N. Ziviani.
+D. Knuth, Q. Yang.
+D. Ritchie, N. Wang.
+W. Brattain, N. Lee.
+K. Wang, A. Hopper.
+F. Wang, U. Yang.
+P. Yang, W. Brattain.
+R. Rivest, L. Torvalds.
+C. Lee, D. Yang.
+T. Wang, D. Lee.
+A. Aho, M. Lee.
+Q. Wang, Z. Yang.
+J. Bardeen, W. Hanson.
+P. Lee, S. Wang.
+X. Lee, U. Wang.
+W. Hanson, F. Wang.
+P. Wang, B. Zoellick.
+M. Wilkes, J. Bardeen.
+J. Neumann, J. Lee.
+Q. Lee, R. Rivest.
+X. Wang, E. Reingold.
+J. Atanasoff, O. Wang.
+V. Yang, C. Yang.
+R. Cerqueira, I. Lee.
+G. Yang, D. Ritchie.
+D. Ritchie, S. Yang.
+T. Lee, J. Hopcroft.
+J. Backus, J. Lee.
+F. Lorenzi, M. Folk.
+Z. Lee, J. Bardeen.
+J. Neumann, Q. Lee.
+C. Yang, D. Lee.
+L. Lee, B. Yang.
+K. Zuse, J. Ullmann.
+W. Celes, P. Yang.
+S. Xang, S. Wang.
+J. Bardeen, X. Wang.
+Q. Lee, D. Wang.
+Y. Lee, R. Rivest.
+K. Zoellick, R. Cerqueira.
+M. Folk, R. Sedgewick.
+S. Wang, T. Wang.
+Z. Lee, V. Wang.
+K. Zuse, B. Zoellick.
+D. Knuth, M. Folk.
+E. Dijkstra, M. Wang.
+V. Yang, G. Wang.
+P. Lee, L. Wang.
+G. Yang, I. Yang.
+A. Hopper, K. Lee.
+G. Lee, L. Lee.
+D. Ritchie, W. Shockley.
+W. Celes, D. Lee.
+W. Brattain, L. Torvalds.
+F. Lorenzi, Z. Yang.
+J. Hopcroft, J. Rangel.
+N. Wirth, D. Lee.
+W. Celes, A. Yang.
+B. Kernighan, P. Wang.
+L. Lee, F. Wang.
+W. Wang, B. Zoellick.
+Y. Wang, I. Lee.
+H. Yang, I. Wang.
+E. Yang, J. Backus.
+E. Reingold, D. Wang.
+X. Wang, H. Yang.
+P. Wang, M. Wang.
+G. Yang, B. Kernighan.
+N. Ziviani, U. Wang.
+N. Yang, L. Lee.
+P. Wang, M. Folk.
+J. Lee, R. Yang.
+E. Lee, L. Yang.
+D. Knuth, S. Pereira.
+R. Wang, T. Yang.
+P. Wang, L. Markenzon.
+C. Leiserson, J. Neumann.
+L. Lee, W. Wang.
+E. Dijkstra, L. Wang.
+A. Yang, H. Yang.
+N. Wang, F. Lorenzi.
+A. Hopper, B. Kernighan.
+N. Ziviani, F. Yang.
+J. Hopcroft, O. Yang.
+C. Yang, M. Folk.
+U. Wang, F. Lorenzi.
+F. Lee, F. Yang.
+W. Lee, F. Lee.
+W. Wang, P. Chen.
+T. Wang, C. Lee.
+O. Yang, C. Lee.
+I. Yang, J. Bardeen.
+X. Wang, A. Yang.
+F. Yang, M. Folk.
+X. Wang, T. Wang.
+T. Cormen, P. Yang.
+W. Wang, K. Thompson.
+C. Leiserson, A. Lee.
+B. Yang, I. Wang.
+W. Yang, F. Lorenzi.
+M. Folk, A. Turing.
+B. Zoellick, U. Yang.
+T. Cormen, M. Folk.
+K. Lee, Q. Yang.
+M. Folk, J. Rangel.
+P. Yang, J. Bardeen.
+S. Zoellick, R. Cerqueira.
+F. Lee, F. Lorenzi.
+D. Wang, F. Lorenzi.
+B. Kernighan, Y. Wang.
+T. Hopper, K. Lee.
+G. Yang, H. Yang.
+D. Ritchie, E. Reingold.
+K. Thompson, I. Wang.
+W. Yang, M. Wang.
+J. Lee, G. Lee.
+P. Lee, Q. Yang.
+Z. Wang, Y. Lee.
+Z. Yang, F. Yang.
+J. Wang, B. Stroustrup.
+X. Lee, O. Yang.
+Q. Wang, F. Lorenzi.
+I. Lee, B. Wang.
+U. Yang, N. Wang.
+F. Lorenzi, P. Mattos.
+F. Lorenzi, V. Wang.
+E. Codd, A. Yang.
+B. Yang, E. Lee.
+F. Wang, T. Cormen.
+V. Yang, I. Wang.
+E. Wang, E. Yang.
+M. Lee, S. Lee.
+K. Lee, H. Wang.
+A. Yang, K. Thompson.
+J. Backus, C. Wang.
+F. Yang, D. Lee.
+B. Kernighan, J. Hopcroft.
+X. Kernighan, J. Hopcroft.
+Z. Yang, J. Ullmann.
+H. Cormen, P. Yang.
+M. Wang, M. Folk.
+F. Wang, L. Torvalds.
+K. Zuse, P. Wang.
+T. Cormen, C. Leiserson.
+O. Lee, X. Yang.
+T. Cormen, M. Wang.
+M. Wilkes, S. Lee.
+A. Wang, F. Yang.
+C. Yang, K. Thompson.
+R. Lee, W. Hanson.
+B. Zoellick, A. Kay.
+Y. Lee, D. Knuth.
+N. Wirth, Y. Lee.
+A. Wang, B. Kernighan.
+Q. Wang, I. Yang.
+J. Hopcroft, U. Wang.
+J. Rangel, R. Sedgewick.
+G. Wang, F. Lee.
+P. Wang, R. Rivest.
+M. Yang, J. Lee.
+E. Codd, E. Reingold.
+L. Torvalds, R. Yang.
+A. Lee, B. Zoellick.
+D. Rivest, P. Wang.
+E. Wang, J. Eckert.
+M. Folk, W. Yang.
+B. Zoellick, M. Folk.
+J. Lee, N. Wang.
+F. Wang, O. Lee.
+W. Shockley, A. Tanenbaum.
+U. Wang, M. Yang.
+J. Atanasoff, U. Lee.
+D. Wang, D. Yang.
+A. Yang, Z. Yang.
+U. Yang, D. Knuth.
+J. Hopcroft, R. Wang.
+F. Wang, H. Yang.
+J. Aiken, L. Lee.
+G. Yang, V. Yang.
+Y. Yang, G. Wang.
+H. Wirth, D. Lee.
+I. Yang, I. Wang.
+J. Hopcroft, B. Wang.
+L. Lee, X. Lee.
+L. Yang, J. Ullmann.
+F. Yang, F. Williams.
+F. Lee, K. Lee.
+S. Wang, D. Knuth.
+J. Eckert, E. Lee.
+D. Ritchie, A. Turing.
+Y. Lee, M. Folk.
+J. Ullmann, D. Ritchie.
+R. Rivest, L. Lee.
+Y. Wang, C. Stein.
+K. Zuse, J. Eckert.
+C. Lee, D. Ritchie.
+K. Thompson, B. Zoellick.
+D. Ritchie, C. Stein.
+S. Yang, J. Wang.
+K. Thompson, R. Cerqueira.
+J. Hopcroft, A. Kay.
+S. Wang, J. Rangel.
+G. Lee, N. Wang.
+D. Knuth, A. Tanenbaum.
+V. Yang, B. Yang.
+H. Lee, Y. Yang.
+B. Kernighan, L. Yang.
+L. Wang, T. Carvalho.
+R. Sedgewick, D. Ritchie.
+T. Kilburn, A. Yang.
+T. Cormen, L. Yang.
+C. Leiserson, F. Lee.
+J. Hopcroft, Z. Yang.
+J. Backus, H. Yang.
+B. Zoellick, D. Yang.
+A. Lee, W. Celes.
+D. Ritchie, U. Yang.
+Y. Lee, S. Yang.
+L. Wang, I. Wang.
+N. Ziviani, M. Folk.
+G. Yang, M. Lee.
+Y. Wang, S. Pereira.
+O. Cormen, P. Yang.
+E. Lee, T. Carvalho.
+A. Hopper, U. Wang.
+U. Yang, F. Lorenzi.
+F. Folk, M. Wang.
+B. Kernighan, U. Yang.
+U. Yang, A. Turing.
+T. Lee, J. Mauchly.
+D. Ritchie, G. Lee.
+D. Knuth, Q. Lee.
+J. Ullmann, W. Brattain.
+Y. Lee, P. Yang.
+Q. Wang, L. Markenzon.
+V. Yang, S. Yang.
+W. Hanson, F. Lorenzi.
+H. Lee, T. Yang.
+E. Cormen, L. Yang.
+D. Lee, M. Wang.
+E. Yang, J. Lee.
+J. Ullmann, K. Lee.
+X. Lee, L. Wang.
+W. Celes, W. Lee.
+D. Wang, M. Lee.
+A. Turing, T. Wang.
+S. Wang, D. Lee.
+N. Ziviani, O. Lee.
+R. Cerqueira, X. Lee.
+N. Wirth, J. Hopcroft.
+M. Folk, J. Szwarcfiter.
+A. Yang, A. Tanenbaum.
+P. Yang, B. Stroustrup.
+I. Yang, I. Lee.
+A. Yang, K. Lee.
+A. Turing, I. Wang.
+B. Stroustrup, A. Aho.
+S. Yang, P. Mattos.
+Q. Wang, H. Wang.
+J. Bardeen, P. Wang.
+I. Yang, C. Lee.
+V. Lee, K. Wang.
+T. Kilburn, D. Ritchie.
+B. Zoellick, F. Wang.
+M. Xolk, M. Folk.
+F. Lorenzi, D. Ritchie.
+F. Yang, L. Lee.
+K. Thompson, X. Wang.
+A. Tanenbaum, T. Lee.
+I. Yang, L. Wang.
+Z. Yang, C. Lee.
+J. Neumann, N. Yang.
+C. Wang, K. Zuse.
+H. Lee, D. Lee.
+Q. Wang, J. Ullmann.
+Q. Wang, Q. Lee.
+X. Lee, A. Turing.
+W. Wang, B. Kernighan.
+C. Yang, B. Lee.
+S. Lee, E. Reingold.
+T. Knuth, S. Wang.
+Y. Wang, S. Yang.
+F. Kernighan, W. Wang.
+T. Wang, L. Wang.
+J. Lee, B. Kernighan.
+J. Rivest, L. Lee.
+T. Yang, B. Yang.
+N. Wirth, B. Zoellick.
+U. Yang, J. Ullmann.
+E. Lee, R. Cerqueira.
+W. Hanson, T. Cormen.
+M. Lee, I. Wang.
+G. Lee, J. Eckert.
+C. Stein, P. Yang.
+S. Thompson, J. Neumann.
+T. Wang, W. Celes.
+L. Lee, V. Yang.
+L. Markenzon, J. Szwarcfiter.
+D. Ritchie, W. Yang.
+C. Yang, J. Lee.
+L. Lee, F. Lorenzi.
+W. Celes, N. Wang.
+S. Pereira, K. Yang.
+G. Wang, J. Ullmann.
+T. Yang, N. Ziviani.
+F. Lorenzi, R. Sedgewick.
+C. Yang, E. Dijkstra.
+V. Yang, L. Torvalds.
+J. Yang, K. Zuse.
+K. Thompson, D. Lee.
+M. Lee, E. Wang.
+F. Yang, T. Kilburn.
+V. Wang, T. Kilburn.
+F. Lorenzi, S. Pereira.
+H. Wang, U. Wang.
+B. Wang, F. Wang.
+J. Wang, S. Wang.
+F. Wang, J. Bardeen.
+G. Wang, K. Lee.
+Z. Wang, N. Lee.
+I. Wang, R. Rivest.
+D. Yang, J. Bardeen.
+X. Yang, V. Yang.
+W. Lee, A. Tanenbaum.
+J. Hopcroft, L. Yang.
+I. Wang, E. Yang.
+I. Lee, G. Yang.
+S. Pereira, R. Cerqueira.
+E. Lee, B. Zoellick.
+T. Cormen, T. Wang.
+E. Dijkstra, S. Pereira.
+R. Sedgewick, Q. Wang.
+A. Hopper, X. Yang.
+W. Hanson, B. Wang.
+J. Rangel, O. Lee.
+P. Chen, M. Wang.
+Y. Wang, M. Wilkes.
+G. Wang, A. Yang.
+W. Yang, R. Yang.
+B. Zoellick, J. Bardeen.
+I. Cormen, L. Yang.
+M. Wilkes, C. Wang.
+I. Lee, S. Wang.
+R. Yang, M. Wang.
+A. Thompson, D. Lee.
+N. Xirth, N. Wirth.
+M. Wang, E. Wang.
+X. Yang, B. Zoellick.
+E. Codd, U. Yang.
+H. Aiken, E. Dijkstra.
+C. Wang, D. Knuth.
+H. Yang, C. Wang.
+F. Wang, P. Lee.
+J. Wang, F. Lorenzi.
+J. Eckert, L. Lee.
+L. Yang, M. Folk.
+F. Lee, I. Lee.
+J. Backus, H. Lee.
+J. Hopcroft, H. Lee.
+Y. Lee, F. Williams.
+D. Lee, U. Wang.
+E. Dijkstra, K. Lee.
+C. Stein, F. Wang.
+U. Yang, N. Ziviani.
+N. Lee, E. Wang.
+H. Lee, F. Lee.
+Z. Lee, S. Wang.
+T. Lee, J. Rangel.
+N. Hanson, A. Yang.
+Z. Lorenzi, P. Mattos.
+G. Yang, G. Wang.
+M. Folk, J. Atanasoff.
+Y. Lee, J. Ullmann.
+O. Lee, N. Yang.
+D. Ritchie, N. Yang.
+W. Shockley, B. Zoellick.
+H. Lee, F. Yang.
+R. Wang, K. Thompson.
+R. Sedgewick, R. Yang.
+P. Yang, J. Wang.
+H. Kernighan, G. Yang.
+J. Ullmann, R. Yang.
+F. Yang, O. Lee.
+B. Stroustrup, N. Wirth.
+J. Backus, N. Wirth.
+T. Wang, W. Hanson.
+L. Lee, P. Wang.
+L. Thompson, D. Lee.
+J. Neumann, D. Yang.
+A. Turing, A. Tanenbaum.
+C. Leiserson, A. Wang.
+C. Stein, G. Lee.
+E. Lee, W. Celes.
+U. Wang, Z. Wang.
+O. Yang, Q. Wang.
+P. Yang, A. Lee.
+W. Celes, J. Bardeen.
+L. Yang, A. Yang.
+L. Yang, M. Lee.
+A. Tanenbaum, Y. Wang.
+Y. Lee, K. Zuse.
+Y. Cerqueira, E. Dijkstra.
+L. Markenzon, J. Bardeen.
+B. Wang, D. Lee.
+R. Dijkstra, S. Lee.
+B. Kernighan, X. Wang.
+S. Pereira, Z. Wang.
+R. Yang, J. Wang.
+J. Eckert, C. Leiserson.
+T. Kilburn, D. Knuth.
+C. Stein, T. Cormen.
+J. Thompson, I. Wang.
+J. Szwarcfiter, D. Lee.
+Y. Wang, E. Wang.
+W. Wang, P. Lee.
+H. Lee, N. Wang.
+L. Markenzon, L. Wang.
+R. Yang, A. Lee.
+W. Shockley, P. Lee.
+J. Yang, M. Folk.
+J. Wang, H. Yang.
+J. Yang, M. Wang.
+A. Rangel, E. Codd.
+W. Yang, M. Yang.
+A. Yang, K. Wang.
+B. Zoellick, L. Yang.
+H. Yang, S. Wang.
+S. Pereira, D. Wang.
+J. Lee, S. Lee.
+C. Lee, H. Aiken.
+T. Carvalho, S. Pereira.
+W. Celes, A. Kay.
+E. Bardeen, M. Wilkes.
+I. Yang, T. Carvalho.
+B. Kernighan, G. Wang.
+N. Ziviani, H. Yang.
+H. Wang, P. Mattos.
+L. Torvalds, A. Yang.
+U. Yang, A. Yang.
+I. Yang, F. Lorenzi.
+R. Cerqueira, Z. Yang.
+G. Lee, B. Yang.
+S. Hanson, A. Yang.
+X. Ritchie, A. Turing.
+I. Yang, J. Wang.
+J. Bardeen, A. Yang.
+B. Kernighan, D. Lee.
+E. Lee, Q. Wang.
+T. Carvalho, Z. Yang.
+J. Bardeen, P. Lee.
+T. Carvalho, P. Yang.
+J. Ritchie, F. Lorenzi.
+P. Lee, U. Wang.
+D. Yang, S. Yang.
+T. Carvalho, X. Yang.
+R. Rivest, Y. Wang.
+G. Yang, Q. Yang.
+U. Wang, K. Thompson.
+U. Yang, V. Yang.
+C. Stein, J. Lee.
+K. Thompson, U. Yang.
+L. Lee, N. Wirth.
+B. Kernighan, T. Yang.
+N. Lee, I. Lee.
+K. Zuse, M. Folk.
+T. Kilburn, C. Lee.
+L. Lee, I. Wang.
+R. Sedgewick, I. Wang.
+K. Thompson, D. Ritchie.
+B. Lee, W. Celes.
+F. Yang, J. Eckert.
+G. Wang, F. Lorenzi.
+N. Ziviani, Y. Yang.
+D. Brattain, J. Ullmann.
+S. Pereira, B. Zoellick.
+M. Folk, O. Yang.
+Q. Lee, K. Thompson.
+J. Backus, K. Wang.
+T. Wang, A. Wang.
+J. Yang, K. Thompson.
+R. Wang, K. Zuse.
+A. Tanenbaum, J. Eckert.
+J. Eckert, T. Cormen.
+C. Lee, A. Aho.
+R. Wang, L. Yang.
+J. Folk, D. Knuth.
+J. Bardeen, S. Pereira.
+P. Yang, M. Folk.
+W. Wang, Y. Wang.
+U. Yang, J. Bardeen.
+U. Lee, R. Rivest.
+E. Reingold, B. Zoellick.
+J. Szwarcfiter, S. Yang.
+H. Wang, W. Wang.
+L. Yang, J. Lee.
+Z. Cerqueira, K. Thompson.
+F. Yang, D. Wang.
+B. Lee, D. Wang.
+L. Yang, N. Wang.
+C. Lee, Y. Lee.
+E. Dijkstra, F. Yang.
+A. Yang, T. Lee.
+W. Celes, K. Thompson.
+J. Backus, S. Pereira.
+W. Celes, Q. Wang.
+R. Wang, H. Lee.
+H. Lee, G. Lee.
+L. Yang, O. Yang.
+J. Backus, Z. Wang.
+N. Wang, M. Wilkes.
+M. Wilkes, A. Yang.
+J. Rangel, Y. Wang.
+A. Xang, A. Yang.
+E. Lee, O. Lee.
+R. Cerqueira, D. Yang.
+S. Wang, W. Wang.
+L. Wang, J. Bardeen.
+B. Zoellick, M. Wang.
+W. Celes, M. Wilkes.
+W. Wang, Q. Lee.
+S. Pereira, E. Yang.
+A. Wang, A. Yang.
+J. Wang, G. Wang.
+G. Lee, P. Chen.
+F. Lorenzi, T. Yang.
+N. Torvalds, F. Wang.
+T. Carvalho, J. Bardeen.
+N. Yang, D. Wang.
+A. Yang, C. Wang.
+Q. Wang, M. Folk.
+P. Yang, E. Dijkstra.
+K. Folk, J. Yang.
+J. Wang, P. Wang.
+R. Yang, S. Yang.
+J. Ullmann, V. Wang.
+P. Chen, D. Knuth.
+A. Turing, V. Lee.
+W. Yang, J. Rangel.
+O. Rangel, O. Lee.
+Y. Cerqueira, K. Thompson.
+R. Yang, E. Wang.
+M. Folk, T. Carvalho.
+S. Lorenzi, W. Yang.
+M. Wang, V. Lee.
+X. Lee, B. Wang.
+X. Wang, D. Lee.
+D. Carvalho, M. Folk.
+R. Lee, D. Wang.
+T. Yang, W. Hanson.
+E. Reingold, Q. Wang.
+D. Wang, Q. Wang.
+S. Pereira, I. Yang.
+H. Yang, N. Wirth.
+X. Yang, J. Eckert.
+O. Yang, A. Yang.
+V. Lee, F. Wang.
+Y. Wang, E. Yang.
+L. Torvalds, F. Lorenzi.
+B. Zoellick, Y. Lee.
+D. Wang, J. Neumann.
+S. Yang, W. Celes.
+C. Lee, P. Yang.
+K. Zuse, P. Yang.
+J. Hopcroft, B. Zoellick.
+B. Yang, F. Lorenzi.
+T. Lee, V. Yang.
+F. Yang, A. Yang.
+J. Backus, T. Yang.
+J. Backus, F. Lorenzi.
+W. Wang, A. Yang.
+J. Hopcroft, M. Wang.
+F. Lorenzi, I. Wang.
+J. Eckert, M. Folk.
+X. Yang, A. Lee.
+N. Wang, H. Wang.
+W. Lee, K. Wang.
+C. Berry, F. Yang.
+N. Wirth, L. Markenzon.
+S. Pereira, S. Yang.
+T. Carvalho, B. Kernighan.
+J. Neumann, L. Torvalds.
+H. Yang, W. Celes.
+A. Aho, U. Wang.
+F. Lorenzi, C. Berry.
+P. Lee, J. Lee.
+E. Backus, C. Wang.
+L. Wang, B. Zoellick.
+D. Ritchie, I. Yang.
+X. Wang, V. Yang.
+Y. Ritchie, G. Yang.
+J. Neumann, I. Wang.
+Y. Carvalho, M. Folk.
+W. Shockley, F. Wang.
+N. Wirth, X. Lee.
+F. Wang, O. Yang.
+P. Cormen, L. Yang.
+O. Wang, I. Yang.
+L. Lee, H. Lee.
+H. Kernighan, U. Yang.
+T. Kernighan, T. Carvalho.
+F. Williams, Y. Wang.
+C. Lee, Y. Yang.
+R. Yang, L. Lee.
+B. Lee, V. Wang.
+V. Yang, A. Lee.
+S. Pereira, D. Lee.
+N. Wang, M. Folk.
+V. Lee, K. Yang.
+L. Markenzon, B. Kernighan.
+M. Yang, T. Wang.
+Y. Lee, K. Thompson.
+C. Folk, C. Wang.
+A. Yang, F. Lorenzi.
+A. Yang, I. Lee.
+D. Lee, W. Shockley.
+H. Lee, P. Mattos.
+F. Wang, M. Folk.
+B. Stroustrup, D. Lee.
+Z. Wang, E. Dijkstra.
+A. Lee, E. Dijkstra.
+O. Hopcroft, A. Yang.
+Y. Lee, D. Wang.
+S. Yang, U. Wang.
+C. Yang, T. Cormen.
+A. Yang, A. Turing.
+J. Szwarcfiter, J. Yang.
+J. Bardeen, H. Yang.
+N. Ziviani, I. Lee.
+R. Wang, K. Lee.
+C. Wang, A. Kay.
+G. Lee, N. Wirth.
+P. Wang, A. Tanenbaum.
+C. Lee, B. Zoellick.
+S. Wang, B. Stroustrup.
+A. Yang, H. Aiken.
+J. Backus, J. Hopcroft.
+O. Yang, W. Hanson.
+R. Wang, E. Wang.
+X. Lee, K. Zuse.
+V. Carvalho, S. Pereira.
+E. Cormen, W. Hanson.
+P. Yang, S. Yang.
+V. Yang, J. Mauchly.
+R. Yang, E. Dijkstra.
+C. Wang, A. Turing.
+D. Lee, A. Lee.
+X. Lee, G. Lee.
+U. Yang, V. Lee.
+V. Lee, F. Lee.
+R. Wang, P. Chen.
+I. Yang, E. Wang.
+C. Wang, C. Lee.
+K. Wang, J. Yang.
+L. Wang, C. Berry.
+E. Reingold, V. Yang.
+P. Ullmann, U. Yang.
+L. Markenzon, N. Yang.
+E. Dijkstra, G. Lee.
+X. Wang, A. Hopper.
+W. Lee, C. Stein.
+Y. Wang, K. Thompson.
+W. Wang, U. Yang.
+U. Yang, W. Hanson.
+M. Folk, H. Yang.
+I. Lee, E. Wang.
+N. Wirth, N. Wang.
+W. Brattain, K. Thompson.
+F. Lee, I. Yang.
+C. Lee, E. Lee.
+T. Wang, B. Zoellick.
+Q. Yang, R. Cerqueira.
+R. Sedgewick, R. Cerqueira.
+O. Lee, C. Stein.
+X. Lee, F. Yang.
+H. Wang, S. Pereira.
+A. Wang, T. Yang.
+F. Lorenzi, D. Lee.
+W. Wang, L. Torvalds.
+J. Eckert, P. Yang.
+B. Leiserson, J. Eckert.
+E. Lee, L. Markenzon.
+E. Yang, V. Wang.
+O. Yang, S. Yang.
+Z. Yang, H. Yang.
+C. Berry, V. Wang.
+K. Lee, Z. Yang.
+P. Yang, I. Wang.
+R. Cerqueira, V. Yang.
+K. Xhompson, K. Thompson.
+X. Yang, H. Aiken.
+R. Cerqueira, A. Tanenbaum.
+Q. Wang, A. Aho.
+A. Hopper, B. Lee.
+V. Lee, Y. Wang.
+R. Yang, X. Lee.
+C. Wirth, Y. Lee.
+E. Wang, J. Atanasoff.
+U. Wang, C. Berry.
+A. Turing, J. Ullmann.
+A. Aho, N. Wirth.
+F. Yang, F. Lorenzi.
+X. Yang, Z. Yang.
+F. Yang, V. Yang.
+N. Ziviani, E. Dijkstra.
+M. Yang, S. Lee.
+Q. Yang, D. Wang.
+I. Wang, W. Brattain.
+F. Lorenzi, J. Neumann.
+K. Thompson, B. Kernighan.
+I. Markenzon, P. Wang.
+W. Celes, R. Rivest.
+X. Yang, J. Hopcroft.
+D. Yang, C. Yang.
+Z. Wirth, D. Lee.
+N. Wang, T. Carvalho.
+R. Rivest, U. Yang.
+R. Xang, R. Yang.
+P. Lee, G. Lee.
+A. Wang, W. Hanson.
+Y. Yang, C. Leiserson.
+B. Zoellick, H. Lee.
+Y. Lee, B. Wang.
+Y. Lee, P. Lee.
+E. Dijkstra, O. Lee.
+I. Wang, P. Mattos.
+X. Lee, P. Mattos.
+K. Wang, Q. Lee.
+M. Lee, A. Lee.
+P. Yang, R. Yang.
+S. Ziviani, E. Dijkstra.
+E. Reingold, T. Cormen.
+O. Yang, T. Cormen.
+X. Lee, H. Yang.
+W. Hanson, I. Yang.
+Y. Wang, H. Lee.
+J. Lee, P. Chen.
+I. Yang, P. Mattos.
+M. Folk, C. Stein.
+W. Hanson, C. Stein.
+N. Brattain, J. Ullmann.
+H. Yang, L. Torvalds.
+W. Yang, U. Wang.
+V. Lee, T. Carvalho.
+E. Codd, F. Lorenzi.
+H. Aiken, E. Reingold.
+A. Aho, K. Thompson.
+J. Ullmann, T. Wang.
+N. Bardeen, I. Yang.
+N. Ritchie, C. Stein.
+L. Wirth, L. Markenzon.
+W. Wilkes, J. Bardeen.
+D. Knuth, N. Yang.
+P. Folk, C. Wang.
+X. Yang, W. Hanson.
+G. Yang, L. Lee.
+A. Wang, J. Hopcroft.
+F. Yang, F. Wang.
+S. Lee, I. Yang.
+M. Wang, R. Cerqueira.
+S. Lee, S. Wang.
+F. Lorenzi, D. Knuth.
+T. Cormen, D. Knuth.
+U. Yang, D. Wang.
+K. Yang, M. Folk.
+V. Yang, M. Folk.
+Q. Markenzon, P. Wang.
+M. Lee, F. Lorenzi.
+U. Wang, C. Yang.
+I. Lee, N. Wirth.
+B. Kernighan, V. Wang.
+E. Brattain, J. Ullmann.
+E. Yang, T. Lee.
+R. Rivest, E. Yang.
+A. Turing, Q. Wang.
+X. Wang, J. Hopcroft.
+K. Wang, V. Yang.
+S. Pereira, K. Thompson.
+P. Wang, F. Lee.
+W. Brattain, N. Wirth.
+N. Yang, K. Thompson.
+M. Lee, O. Wang.
+X. Lee, N. Wang.
+J. Eckert, D. Yang.
+L. Lee, N. Wang.
+R. Lee, S. Wang.
+F. Lee, A. Lee.
+D. Yang, M. Folk.
+V. Yang, T. Cormen.
+Q. Wirth, L. Markenzon.
+E. Wang, D. Lee.
+X. Yang, W. Lee.
+W. Neumann, K. Thompson.
+W. Brattain, F. Lorenzi.
+A. Lee, N. Lee.
+M. Wilkes, E. Yang.
+A. Lee, S. Pereira.
+V. Celes, A. Yang.
+B. Stroustrup, H. Wang.
+U. Wang, X. Yang.
+U. Yang, J. Wang.
+K. Thompson, E. Reingold.
+J. Eckert, N. Lee.
+F. Thompson, M. Wang.
+Q. Lee, T. Cormen.
+A. Hanson, A. Yang.
+W. Wang, J. Neumann.
+A. Yang, U. Wang.
+B. Zoellick, L. Markenzon.
+J. Neumann, W. Yang.
+J. Mauchly, T. Wang.
+Y. Lee, J. Hopcroft.
+G. Bardeen, I. Yang.
+N. Ziviani, A. Tanenbaum.
+N. Yang, L. Torvalds.
+B. Lee, M. Yang.
+P. Lee, A. Yang.
+V. Wang, U. Wang.
+S. Hopcroft, J. Backus.
+B. Kernighan, M. Wang.
+J. Ullmann, B. Kernighan.
+S. Reingold, X. Wang.
+A. Wang, U. Wang.
+K. Thompson, A. Lee.
+W. Wang, E. Reingold.
+N. Wang, I. Lee.
+H. Aiken, A. Lee.
+N. Yang, H. Yang.
+B. Wang, D. Ritchie.
+Q. Yang, S. Pereira.
+S. Pereira, A. Wang.
+U. Lee, S. Lee.
+V. Yang, K. Thompson.
+I. Wang, Q. Wang.
+F. Lee, B. Zoellick.
+L. Yang, K. Lee.
+H. Yang, E. Lee.
+M. Wang, A. Turing.
+J. Neumann, I. Yang.
+W. Wang, M. Folk.
+M. Wang, R. Rivest.
+F. Folk, N. Ziviani.
+D. Ritchie, X. Wang.
+P. Markenzon, P. Wang.
+H. Wang, L. Wang.
+D. Ritchie, Q. Lee.
+U. Aho, M. Lee.
+A. Mattos, F. Lorenzi.
+D. Tanenbaum, P. Wang.
+J. Wang, K. Lee.
+C. Stein, U. Wang.
+A. Yang, J. Eckert.
+J. Mauchly, J. Ullmann.
+T. Lee, S. Wang.
+C. Yang, E. Lee.
+I. Yang, E. Codd.
+P. Chen, H. Wang.
+A. Aho, N. Wang.
+M. Lee, S. Pereira.
+J. Hopcroft, N. Wang.
+W. Yang, T. Yang.
+E. Bardeen, U. Yang.
+D. Yang, L. Lee.
+A. Yang, D. Knuth.
+W. Yang, S. Pereira.
+V. Rangel, O. Lee.
+D. Ritchie, F. Wang.
+T. Lee, V. Wang.
+Q. Folk, C. Wang.
+I. Wang, A. Tanenbaum.
+C. Dijkstra, R. Cerqueira.
+T. Wang, C. Wang.
+V. Lee, K. Lee.
+X. Leiserson, F. Lee.
+P. Yang, J. Hopcroft.
+U. Lee, P. Lee.
+O. Wang, D. Ritchie.
+J. Wang, U. Wang.
+X. Zoellick, M. Wang.
+E. Kernighan, W. Wang.
+V. Lee, P. Lee.
+U. Wang, T. Cormen.
+R. Lee, F. Lorenzi.
+G. Wang, M. Folk.
+V. Carvalho, B. Kernighan.
+B. Zoellick, I. Wang.
+M. Wang, L. Lee.
+V. Yang, S. Wang.
+Z. Yang, P. Lee.
+E. Rangel, O. Lee.
+O. Yang, C. Stein.
+T. Cormen, J. Hopcroft.
+C. Berry, L. Yang.
+W. Yang, H. Yang.
+D. Knuth, J. Ullmann.
+H. Bardeen, O. Wang.
+R. Pereira, F. Lorenzi.
+B. Zoellick, U. Wang.
+K. Lorenzi, F. Lee.
+N. Lee, B. Zoellick.
+T. Yang, Y. Lee.
+J. Bardeen, E. Dijkstra.
+R. Cerqueira, I. Wang.
+H. Yang, W. Hanson.
+Z. Wang, W. Celes.
+E. Reingold, T. Kilburn.
+X. Hopcroft, B. Zoellick.
+Q. Wang, B. Yang.
+Y. Lee, T. Lee.
+J. Backus, P. Wang.
+E. Eckert, L. Lee.
+M. Wilkes, K. Thompson.
+M. Wilkes, M. Yang.
+U. Wang, I. Wang.
+E. Dijkstra, J. Atanasoff.
+J. Neumann, B. Zoellick.
+C. Brattain, J. Ullmann.
+J. Mauchly, F. Lorenzi.
+T. Yang, J. Eckert.
+Y. Yang, M. Folk.
+I. Wang, P. Chen.
+D. Ritchie, J. Bardeen.
+J. Lee, L. Lee.
+J. Chen, J. Lee.
+R. Wang, A. Tanenbaum.
+J. Hopcroft, I. Lee.
+A. Wang, B. Zoellick.
+D. Backus, N. Wirth.
+U. Kernighan, M. Wang.
+F. Lorenzi, J. Rangel.
+J. Wang, A. Yang.
+G. Yang, J. Hopcroft.
+N. Yang, W. Hanson.
+E. Yang, M. Folk.
+M. Lorenzi, J. Neumann.
+B. Stroustrup, B. Zoellick.
+D. Lee, L. Markenzon.
+F. Yang, L. Yang.
+B. Kernighan, B. Zoellick.
+D. Ritchie, J. Wang.
+E. Xang, E. Wang.
+M. Backus, C. Wang.
+F. Yang, U. Wang.
+F. Folk, K. Zuse.
+L. Lee, B. Wang.
+H. Kernighan, L. Yang.
+L. Lee, T. Lee.
+T. Cormen, I. Wang.
+D. Lee, E. Lee.
+X. Yang, R. Sedgewick.
+B. Lee, T. Carvalho.
+Y. Wang, M. Lee.
+R. Yang, T. Wang.
+L. Lee, S. Pereira.
+L. Ullmann, R. Yang.
+J. Dijkstra, R. Cerqueira.
+A. Kernighan, Y. Wang.
+E. Lee, F. Lee.
+K. Hanson, T. Cormen.
+E. Yang, D. Ritchie.
+B. Lee, H. Lee.
+P. Turing, A. Yang.
+H. Neumann, I. Yang.
+M. Folk, B. Kernighan.
+W. Celes, W. Hanson.
+C. Berry, D. Yang.
+J. Yang, C. Lee.
+R. Yang, D. Knuth.
+F. Mattos, I. Wang.
+W. Wang, R. Rivest.
+G. Lee, S. Pereira.
+J. Backus, N. Wang.
+Q. Stroustrup, Q. Wang.
+W. Turing, I. Wang.
+T. Cormen, J. Neumann.
+R. Sedgewick, A. Lee.
+T. Lee, J. Eckert.
+E. Codd, R. Yang.
+U. Yang, E. Yang.
+B. Yang, P. Wang.
+P. Mattos, P. Wang.
+Y. Yang, J. Hopcroft.
+V. Wang, B. Wang.
+B. Zoellick, A. Hopper.
+W. Wang, U. Lee.
+K. Zuse, B. Kernighan.
+M. Folk, W. Celes.
+B. Wang, E. Lee.
+C. Yang, M. Yang.
+N. Yang, B. Yang.
+L. Lee, G. Wang.
+J. Rangel, L. Torvalds.
+K. Cerqueira, A. Tanenbaum.
+Y. Yang, T. Kilburn.
+V. Wang, L. Lee.
+H. Lee, J. Mauchly.
+V. Yang, W. Celes.
+C. Yang, E. Codd.
+N. Lee, U. Wang.
+N. Wirth, W. Celes.
+O. Neumann, G. Lee.
+T. Yang, C. Berry.
+V. Wilkes, J. Bardeen.
+B. Wang, Q. Lee.
+V. Wang, E. Dijkstra.
+Q. Yang, Q. Lee.
+P. Yang, B. Kernighan.
+S. Pereira, V. Lee.
+T. Lee, J. Szwarcfiter.
+Y. Yang, J. Bardeen.
+T. Wang, A. Tanenbaum.
+Z. Wang, P. Mattos.
+Q. Wang, D. Yang.
+L. Torvalds, I. Lee.
+R. Lee, E. Reingold.
+X. Cormen, P. Yang.
+D. Yang, W. Celes.
+Z. Lee, W. Yang.
+T. Cormen, A. Turing.
+F. Yang, X. Yang.
+M. Yang, K. Zuse.
+E. Reingold, P. Chen.
+W. Lee, M. Wang.
+N. Yang, W. Yang.
+W. Wang, A. Hopper.
+J. Yang, J. Eckert.
+H. Wang, P. Wang.
+J. Ullmann, S. Yang.
+O. Wang, I. Lee.
+D. Kilburn, C. Lee.
+Q. Yang, S. Wang.
+O. Lee, R. Sedgewick.
+P. Yang, H. Lee.
+S. Yang, H. Aiken.
+E. Lee, N. Wang.
+J. Lee, B. Zoellick.
+N. Wirth, S. Pereira.
+E. Wang, W. Shockley.
+D. Tanenbaum, T. Wang.
+I. Wang, D. Ritchie.
+N. Folk, T. Carvalho.
+E. Hanson, B. Wang.
+B. Wang, L. Wang.
+W. Wang, K. Zuse.
+N. Wang, A. Yang.
+D. Lee, I. Yang.
+C. Lee, J. Neumann.
+N. Eckert, P. Yang.
+U. Bardeen, M. Wilkes.
+P. Wang, B. Wang.
+Y. Wang, D. Wang.
+Z. Lorenzi, J. Neumann.
+D. Pereira, J. Backus.
+L. Markenzon, T. Cormen.
+X. Yang, V. Lee.
+X. Lee, F. Lorenzi.
+B. Kernighan, I. Lee.
+R. Wang, F. Lorenzi.
+N. Wirth, S. Wang.
+H. Wang, B. Zoellick.
+C. Yang, G. Yang.
+D. Wang, A. Hopper.
+P. Lee, E. Dijkstra.
+T. Wang, T. Yang.
+Y. Wang, X. Wang.
+J. Bardeen, F. Lee.
+Y. Lee, X. Yang.
+O. Lorenzi, J. Mauchly.
+T. Rivest, M. Wang.
+H. Yang, U. Yang.
+A. Lee, X. Lee.
+L. Markenzon, J. Lee.
+D. Wang, W. Yang.
+J. Bardeen, C. Wang.
+H. Lee, W. Shockley.
+Q. Wirth, I. Lee.
+D. Folk, J. Szwarcfiter.
+I. Yang, B. Zoellick.
+U. Lorenzi, W. Hanson.
+T. Wang, F. Wang.
+B. Kernighan, F. Wang.
+U. Wang, L. Lee.
+L. Yang, P. Yang.
+J. Lee, S. Pereira.
+R. Rivest, Z. Wang.
+E. Reingold, H. Yang.
+V. Wang, B. Stroustrup.
+O. Pereira, D. Lee.
+M. Yang, J. Rangel.
+U. Lee, I. Yang.
+S. Wang, K. Lee.
+J. Bardeen, K. Zuse.
+C. Yang, W. Celes.
+E. Yang, C. Yang.
+I. Yang, U. Wang.
+J. Bardeen, B. Wang.
+W. Hanson, A. Turing.
+J. Ullmann, W. Yang.
+C. Wang, P. Wang.
+B. Lee, J. Hopcroft.
+K. Wang, D. Knuth.
+F. Wang, J. Hopcroft.
+S. Pereira, Y. Lee.
+C. Leiserson, D. Lee.
+K. Zuse, N. Wirth.
+K. Lee, U. Wang.
+S. Yang, B. Kernighan.
+S. Yang, M. Folk.
+X. Lee, M. Lee.
+J. Yang, W. Hanson.
+S. Wang, W. Brattain.
+X. Folk, P. Wang.
+J. Backus, D. Knuth.
+T. Kilburn, K. Zuse.
+W. Shockley, J. Atanasoff.
+X. Wang, Q. Yang.
+L. Markenzon, K. Thompson.
+J. Lee, H. Lee.
+O. Yang, A. Turing.
+T. Wang, K. Lee.
+N. Ziviani, W. Yang.
+B. Brattain, F. Lorenzi.
+T. Cormen, A. Yang.
+W. Celes, G. Lee.
+A. Lee, C. Wang.
+O. Wang, J. Lee.
+R. Rivest, K. Zuse.
+V. Wang, W. Yang.
+C. Stein, U. Yang.
+W. Lee, J. Rangel.
+G. Lee, K. Zuse.
+Y. Wang, W. Yang.
+W. Celes, G. Wang.
+G. Lorenzi, D. Ritchie.
+R. Sedgewick, K. Thompson.
+P. Lee, J. Eckert.
+G. Wang, J. Bardeen.
+E. Reingold, A. Turing.
+X. Lee, S. Pereira.
+H. Aiken, J. Backus.
+S. Lee, J. Eckert.
+C. Wang, R. Rivest.
+M. Yang, S. Pereira.
+D. Knuth, V. Lee.
+P. Wang, Q. Lee.
+Q. Lee, W. Hanson.
+B. Zoellick, Q. Wang.
+I. Wang, J. Bardeen.
+T. Ritchie, F. Lorenzi.
+V. Lee, M. Lee.
+I. Lee, P. Lee.
+A. Kay, U. Wang.
+C. Lee, W. Shockley.
+Q. Yang, A. Yang.
+U. Yang, G. Wang.
+X. Wang, J. Mauchly.
+V. Yang, R. Yang.
+T. Yang, G. Wang.
+R. Sedgewick, X. Wang.
+C. Wang, M. Wang.
+L. Lee, H. Wang.
+L. Yang, U. Yang.
+V. Yang, A. Yang.
+R. Wang, W. Celes.
+J. Ullmann, B. Wang.
+Q. Yang, M. Folk.
+E. Codd, L. Torvalds.
+W. Lee, F. Lorenzi.
+W. Yang, S. Yang.
+B. Yang, D. Lee.
+A. Kay, Q. Wang.
+V. Yang, J. Backus.
+X. Yang, C. Yang.
+H. Lee, P. Lee.
+J. Szwarcfiter, H. Yang.
+N. Lee, C. Leiserson.
+J. Neumann, A. Turing.
+L. Yang, J. Eckert.
+Q. Wang, G. Lee.
+D. Knuth, B. Stroustrup.
+S. Wang, F. Wang.
+E. Yang, V. Lee.
+A. Wang, T. Carvalho.
+S. Pereira, T. Kilburn.
+P. Yang, D. Knuth.
+L. Torvalds, J. Hopcroft.
+Y. Wang, K. Wang.
+J. Rangel, F. Yang.
+C. Stein, F. Yang.
+S. Yang, T. Cormen.
+Z. Ritchie, A. Turing.
+H. Carvalho, M. Folk.
+Q. Chen, D. Knuth.
+B. Yang, L. Torvalds.
+G. Lee, I. Yang.
+N. Wirth, F. Lorenzi.
+B. Zoellick, N. Ziviani.
+T. Yang, D. Lee.
+G. Yang, A. Tanenbaum.
+W. Wang, A. Tanenbaum.
+H. Lee, M. Folk.
+R. Lee, H. Aiken.
+E. Lee, T. Cormen.
+I. Lee, V. Wang.
+I. Wang, A. Yang.
+V. Kernighan, K. Zuse.
+J. Sedgewick, X. Wang.
+A. Wang, J. Backus.
+X. Hanson, H. Yang.
+K. Celes, D. Yang.
+C. Wang, F. Lorenzi.
+D. Knuth, B. Wang.
+J. Hopcroft, A. Lee.
+V. Lee, Y. Lee.
+R. Wang, C. Leiserson.
+E. Yang, G. Wang.
+N. Ziviani, W. Celes.
+A. Kay, D. Wang.
+D. Ritchie, A. Yang.
+H. Celes, S. Yang.
+Q. Lee, F. Lorenzi.
+D. Knuth, Z. Wang.
+L. Markenzon, Y. Lee.
+V. Xee, V. Lee.
+S. Pereira, R. Rivest.
+U. Lorenzi, W. Brattain.
+T. Cormen, V. Lee.
+B. Wang, M. Wilkes.
+F. Lee, M. Yang.
+H. Wang, J. Lee.
+B. Torvalds, N. Yang.
+O. Yang, T. Lee.
+Y. Wang, M. Folk.
+S. Wang, H. Lee.
+L. Markenzon, T. Wang.
+F. Lorenzi, P. Yang.
+S. Yang, W. Lee.
+O. Stroustrup, Q. Wang.
+W. Wang, Q. Yang.
+G. Wang, U. Wang.
+B. Zoellick, P. Mattos.
+X. Wang, W. Wang.
+U. Folk, C. Wang.
+Y. Wang, Z. Yang.
+W. Lee, L. Wang.
+J. Eckert, G. Wang.
+C. Leiserson, T. Lee.
+H. Lee, C. Stein.
+A. Lorenzi, J. Wang.
+X. Lee, D. Knuth.
+Y. Thompson, M. Wilkes.
+W. Wang, U. Wang.
+B. Lee, A. Kay.
+J. Neumann, L. Lee.
+A. Kay, J. Ullmann.
+B. Stroustrup, T. Lee.
+S. Pereira, F. Wang.
+J. Yang, J. Hopcroft.
+I. Lee, J. Bardeen.
