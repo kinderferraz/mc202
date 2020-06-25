@@ -1,0 +1,7 @@
+# test outputs
+*.out
+
+._*
+.DS_Store
+*~
+\#*
