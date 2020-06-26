@@ -1,6 +1,11 @@
 # test outputs
 *.out
+*.diff
 
+lab13_1/
+lab13_2/
+
+*.zip
 ._*
 .DS_Store
 *~
